@@ -1,4 +1,4 @@
-setwd("F:/Geth/Homework/W8")
+
 #read data
 myData=read.table("uscrime.txt", stringsAsFactors=FALSE, header=TRUE)
 set.seed(123)
